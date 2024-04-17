@@ -1,5 +1,0 @@
-pyyaml
-flask==0.12.5
-urllib3
-jinja2==3.0.3
-itsdangerous==2.0.1
